@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.DS_Store
+data/*.csv
+data/*.csv.zst
+data/*.sqlite
+data/*.sqlite-*
+TODO.md
+docs/*
